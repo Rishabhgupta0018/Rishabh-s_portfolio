@@ -40,7 +40,7 @@ var contactString = `
     </div>`;
 
 var resumeString = `
-    <img src='images/resumeThumbnail.jpg' class='resumeThumbnail'>
+    <img src='images/resumeThumbnail.png' class='resumeThumbnail'>
     <div class='downloadSpace'>
         <div class='pdfname'>
             <img src='images/pdf.png'>
